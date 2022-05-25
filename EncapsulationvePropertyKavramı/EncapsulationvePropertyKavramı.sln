@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationvePropertyKavramı", "EncapsulationvePropertyKavramı\EncapsulationvePropertyKavramı.csproj", "{F9F29D93-9640-43D0-8ED6-82736A86A32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F29D93-9640-43D0-8ED6-82736A86A32A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F9F29D93-9640-43D0-8ED6-82736A86A32A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F9F29D93-9640-43D0-8ED6-82736A86A32A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F9F29D93-9640-43D0-8ED6-82736A86A32A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E9CAAC-402D-4502-92BA-BD933070CED9}
+	EndGlobalSection
+EndGlobal
